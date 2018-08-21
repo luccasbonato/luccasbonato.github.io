@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+
+baseurl: "/blogBracoPontilhismo"
+production_url : http://luccasbonato.github.io.com/blogBracoPontilhismo
