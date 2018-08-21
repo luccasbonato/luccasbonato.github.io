@@ -1,0 +1,49 @@
+:toc: left
+= Atividades
+By Luccas do Amaral de Brito Bonato
+
+Repositório para entrega das atividades do curso de Processamento Digital de Imagens.
+
+== 1ª Unidade
+
+=== 1ª Atividade: link:Regions/regions.html[Negativo de uma região de uma imagem].
+
+Selecionar uma região de uma imagem e torná-la negativa.
+
+=== 2ª Atividade: link:Trocaregioes/trocaregioes.html[Troca regiões].
+
+Trocar regiões de uma imagem dada.
+
+=== 3ª Atividade: link:Contarbolha/contar.html[Identificando bolhas].
+
+Procurar bolhas, objetos, de uma imagem contar quantos tem e quantas tem buracos no meio delas.
+
+=== 4ª Atividade: link:Equalize/equalize.html[Equalizar histograma de uma imagem].
+
+Equalizar histograma de uma dada imagem em escala cinza.
+
+=== 5ª Atividade: link:Detector/motiondetector.html[Detector de movimento].
+
+Detecta movimento através de comparação de frames.
+
+=== 6ª Atividade link:Lapgauss/laplgauss.html[Aplicando filtro laplaciano-gaussiano].
+
+Filtragem de imagem com a mascara laplace-gaussiana.
+
+=== 7ª Atividade link:Tiltshift/tiltshift.html[Ultilizar a tecnica de Tilt-Shift digital em uma imagem]
+
+Aplicar a tecnica de tilt-shift digital em uma imagem dada pelo usuário.
+
+=== 8ª Atividade: link:tiltvideo/tiltvideo.html[Ultilizar a tecnica de Tilt-Shift digital em um video]
+
+Aplicar a tecnica de tilt-shift digital em um video dada pelo usuário.
+
+== 2ª Unidade
+
+=== 1ª Atividade: link:Homomorfico/homomorfico.html[Ultilizar e aplicar filtro homomorfico em uma imagem]
+
+Aplicar um filtro homomorfico, de acordo com os parametros dado pelo usuário.
+
+=== 2ª Atividade: link:Cannypoints/cannypoints.html[Aplicar a tecnica de pontilhismo com a ajuda do algoritimo de Canny]
+
+Reconstruir uma imagem dada utilizando a tecnica de pontilhismo, assistida pelo algoritimo de Canny.

@@ -1,0 +1,29 @@
+:source-highlighter: pygments
+:figure-caption: Figura
+:listing-caption: Listagem
+:sourcedir: /home/luccas/navamil.github.io/PDI
+
+[.text-justify]
+
+# 8ª Atividade: Tiltshift em videos
+
+Programa implementado link:tiltvideo.cpp[tiltvide.cpp], ultilizando a bilbioteca do OpenCV e o seguinte link:Makefile[Makefile].
+
+Video utilizado, link:teste.mp4[teste.mp4]:
+
+.Video
+video::./teste.mp4[256,256]
+
+Video resultado, link:tilt.mp4[tilt.mp4]:
+
+.Video
+video::./tilt.mp4[256,256]
+
+Codigo em C++:
+
+[source, ruby]
+
+[source, cpp]
+----
+include::{sourcedir}/tiltvideo/tiltvideo.cpp[]
+----

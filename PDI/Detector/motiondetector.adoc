@@ -1,0 +1,19 @@
+:source-highlighter: pygments
+:figure-caption: Figura
+:listing-caption: Listagem
+:sourcedir: /home/luccas/navamil.github.io/PDI
+
+[.text-justify]
+
+# 5ª Atividade: Detector de movimento
+
+Programa implementado link:motiondetector.cpp[motiondetector.cpp], ultilizando a bilbioteca do OpenCV e o seguinte link:Makefile[Makefile].
+
+Codigo em C++:
+
+[source, ruby]
+
+[source, cpp]
+----
+include::{sourcedir}/Detector/motiondetector.cpp[]
+----
