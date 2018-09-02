@@ -1,0 +1,29 @@
+:source-highlighter: pygments
+:figure-caption: Figura
+:listing-caption: Listagem
+:sourcedir: /home/luccas/navamil.github.io/PDI
+
+[.text-justify]
+
+# 2ª Atividade: Aplicar a tecnica de pontilhismo com a ajuda do algoritimo de Canny
+
+Programa implementado link:cannypoints.cpp[cannypoints.cpp], ultilizando a bilbioteca do OpenCV e o seguinte link:Makefile[Makefile].
+
+Imagem utilizada, link:asol.jpg[asol.jpg]:
+
+.Imagem de entrada
+image::./asol.jpg[1215,717]
+
+Imagem resultado, link:cannypoints.png[cannypoints.png]:
+
+.Resultado
+image::./cannypoints.png[1215,717]
+
+Codigo em C++:
+
+[source, ruby]
+
+[source, cpp]
+----
+include::{sourcedir}/Cannypoints/cannypoints.cpp[]
+----

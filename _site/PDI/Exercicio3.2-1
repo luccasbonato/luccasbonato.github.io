@@ -1,0 +1,3 @@
+Observando-se o programa labeling.cpp como exemplo, é possível verificar que caso existam mais de 255 objetos na cena, o processo de rotulação poderá ficar comprometido. Identifique a situação em que isso ocorre e proponha uma solução para este problema.
+
+Para conseguirmos rotular uma imagem com mais de 255 objetos podemos utilizar ao inves da escala cinza a as escalas R, G e B e combinações entre si.

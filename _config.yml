@@ -1,4 +1,24 @@
-theme: jekyll-theme-leap-day
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
 
-baseurl: "/blogBracoPontilhismo"
-production_url : http://luccasbonato.github.io.com/blogBracoPontilhismo
+# Setup
+title:               Luccas Bonato
+tagline:             'GitHub'
+description:         'My name is <a href="https://www.linkedin.com/in/luccas-bonato-36958411a/" target="_blank">Luccas Bonato</a>. I am a electrical engineer student from Natal creating useful things for the web, or not. Kappa.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Luccas Bonato
+  url:               https://www.linkedin.com/in/luccas-bonato-36958411a/
+  email:             las-9@hotmail.com
+
+# Custom vars
+version:             1.0.0
+
+include: [PDI]

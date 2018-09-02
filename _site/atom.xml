@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Luccas Bonato</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-09-02T00:48:28-03:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Luccas Bonato</name>
+   <email>las-9@hotmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Processamento Digital de Imagem (Portugês)</title>
+   <link href="http://localhost:4000/2018/08/28/atividades-de-pdi/"/>
+   <updated>2018-08-28T00:00:00-03:00</updated>
+   <id>http://localhost:4000/2018/08/28/atividades-de-pdi</id>
+   <content type="html">&lt;p&gt;Repositório para entrega das atividades do curso de &lt;a href=&quot;/PDI/index.html&quot;&gt;Processamento Digital de Imagens&lt;/a&gt; na UFRN no periodo 2017.2.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

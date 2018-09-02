@@ -1,0 +1,29 @@
+:source-highlighter: pygments
+:figure-caption: Figura
+:listing-caption: Listagem
+:sourcedir: /home/luccas/navamil.github.io/PDI
+
+[.text-justify]
+
+# 6ª Atividade: Aplicando filtro laplaciano-gaussiano
+
+Programa implementado link:laplgauss.cpp[laplgauss.cpp], ultilizando a bilbioteca do OpenCV e o seguinte link:Makefile[Makefile].
+
+Imagem utilizada, link:frame.png[frame.png]:
+
+.Original
+image::./frame.png[256,256]
+
+Imagem resultado, link:filtrada.png[filtrada.png]:
+
+.Resultado
+image::./filtrada.png[256,256]
+
+Codigo em C++:
+
+[source, ruby]
+
+[source, cpp]
+----
+include::{sourcedir}/Lapgauss/laplgauss.cpp[]
+----

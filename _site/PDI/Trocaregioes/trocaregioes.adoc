@@ -1,0 +1,29 @@
+:source-highlighter: pygments
+:figure-caption: Figura
+:listing-caption: Listagem
+:sourcedir: /home/luccas/navamil.github.io/PDI
+
+[.text-justify]
+
+# 2ª Atividade: Troca regiões
+
+Programa implementado link:trocaregioes.cpp[trocaregioes.cpp], ultilizando a bilbioteca do OpenCV e o seguinte link:Makefile[Makefile].
+
+Imagem utilizada, link:biel.png[biel.png]:
+
+.Biel
+image::./biel.png[256,256]
+
+Imagem resultado, link:trocada.png[trocada.png]:
+
+.Trocada
+image::./trocada.png[256,256]
+
+Codigo em C++:
+
+[source, ruby]
+
+[source, cpp]
+----
+include::{sourcedir}/Trocaregioes/trocaregioes.cpp[]
+----
