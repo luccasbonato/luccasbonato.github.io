@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre o autor...
+title: Curiosidades sobre mim...
 ---
 Eu sou Luccas Bonato, sou um estudante de Engenharia Elétrica da UFRN. Eu desde criança sempre me interessei em tecnologia e depois que entrei no curso só me fez confirmar mais o meu interesse. 
 

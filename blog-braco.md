@@ -1,5 +1,11 @@
 ---
 layout: page
-title: Blog Pontilhismo
+title: Projetos
 ---
-Repositório para o armazenamento do blog [Braço Pontilhismo](https://bracopontilhismo.github.io/).
+Projetos:
+
+1. Programação em C/C++ (Em andamento...)
+1. Programação em VHDL (Em andamento...)
+1. Programação em Assembly (Em andamento...)
+1. [Processamento Digital de Imagens](/PDI/index.html)
+1. [Blog Braço Pontilhismo](https://bracopontilhismo.github.io/)
