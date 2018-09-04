@@ -2,7 +2,6 @@
 layout: page
 title: Projetos
 ---
-Projetos:
 
 1. Programação em C/C++ (Em andamento...)
 1. Programação em VHDL (Em andamento...)

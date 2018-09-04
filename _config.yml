@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Luccas Bonato
 tagline:             'GitHub'
 description:         'Meu nome é <a href="https://www.linkedin.com/in/luccas-bonato-36958411a/" target="_blank">Luccas Bonato</a>. Eu sou um estudante de Engenharia Elétrica da UFRN e estou aqui criando coisas úteis para a web ou não. Kappa.'
-url:                 http://lanyon.getpoole.com
+url:                 # http://lanyon.getpoole.com
 baseurl:             ''
 # paginate:            5
 
