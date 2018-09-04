@@ -7,10 +7,10 @@ permalink:           pretty
 # Setup
 title:               Luccas Bonato
 tagline:             'GitHub'
-description:         'My name is <a href="https://www.linkedin.com/in/luccas-bonato-36958411a/" target="_blank">Luccas Bonato</a>. I am a electrical engineer student from Natal creating useful things for the web, or not. Kappa.'
+description:         'Meu nome é <a href="https://www.linkedin.com/in/luccas-bonato-36958411a/" target="_blank">Luccas Bonato</a>. Eu sou um estudante de Engenharia Elétrica da UFRN e estou aqui criando coisas úteis para a web ou não. Kappa.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
-paginate:            5
+# paginate:            5
 
 # About/contact
 author:
@@ -21,4 +21,4 @@ author:
 # Custom vars
 version:             1.0.0
 
-include: [PDI]
+include: [PDI, blog]
