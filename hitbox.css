@@ -164,19 +164,19 @@
 }
 
 .xbox .a {
-    background-position: -98px 0;
+    background-position: 0 0;
     top: 60px;
     left: 26px;
 }
 
 .xbox .b {
-    background-position: 0 0;
+    background-position: -49px 0;
     top: 155px;
     left: 21px;
 }
 
 .xbox .x {
-    background-position: -49px 0;
+    background-position: -98px 0;
     top: 119px;
     right: 0px;
 }
