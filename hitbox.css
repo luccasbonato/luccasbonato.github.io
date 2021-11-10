@@ -1,4 +1,3 @@
-
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
     background: url(https://imgur.com/aoN3I3Q.png);
@@ -165,20 +164,20 @@
 
 .xbox .a {
     background-position: 0 0;
-    top: 60px;
-    left: 26px;
-}
-
-.xbox .b {
-    background-position: -49px 0;
     top: 155px;
     left: 21px;
 }
 
-.xbox .x {
-    background-position: -98px 0;
+.xbox .b {
+    background-position: -49px 0;
     top: 119px;
     right: 0px;
+}
+
+.xbox .x {
+    background-position: -98px 0;
+    top: 60px;
+    left: 26px;
 }
 
 .xbox .y {
